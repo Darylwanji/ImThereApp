@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788095111520",
+    "project_id": "imthere-447f0",
+    "storage_bucket": "imthere-447f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788095111520:android:a43bdc52631744bdf5ce05",
+        "android_client_info": {
+          "package_name": "com.example.imthere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788095111520-0jaiso4grfbb3p4sk0rkfqb3cpb272bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPA27k-UqwwRJmdVjKaTwag6Xu_RAt9Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788095111520-0jaiso4grfbb3p4sk0rkfqb3cpb272bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
