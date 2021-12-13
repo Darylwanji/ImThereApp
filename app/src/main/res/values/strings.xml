@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">I\'m There</string>
+    <string name="pop_up_name">Pop up Name</string>
+    <string name="phone_number_optional">Phone Number (optional)</string>
+    <string name="cover_fee_optional">Cover Fee (optional)</string>
+    <string name="_19">19+</string>
+    <string name="byob">BYOB</string>
+    <string name="invite_only">Invite Only</string>
+    <string name="friends_only">Friends Only</string>
+    <string name="post_pop_up">Post Pop up</string>
+    <string name="publicpp">Public</string>
 </resources>
